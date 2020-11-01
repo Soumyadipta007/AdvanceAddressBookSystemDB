@@ -1,0 +1,1 @@
+update AddressBook set zip =789 where firstName='Soumya'
