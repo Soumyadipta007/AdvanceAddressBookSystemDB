@@ -1,0 +1,1 @@
+select count(email) from AddressBook where type='Superstars'
